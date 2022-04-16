@@ -1,0 +1,27 @@
+[
+  {
+    "name": "Chicken Burrito",
+    "price": 100,
+    "id": "59c04a22-bd64-11ec-9d64-0242ac120002"
+  },
+  {
+    "name": "Pizza",
+    "price": 80,
+    "id": "4dc78c44-bd64-11ec-9d64-0242ac120002"
+  },
+  {
+    "name": "Salmon Fish",
+    "price": 150,
+    "id": "32d9ac32-bd64-11ec-9d64-0242ac120002"
+  },
+  {
+    "id": "dc9ed3ea-1bd6-417e-a602-46eea062f110",
+    "name": "burger",
+    "price": 80
+  },
+  {
+    "id": "e11c7c05-af2f-4566-9a6f-cf959580da39",
+    "name": "T-Bone",
+    "price": 500
+  }
+]
